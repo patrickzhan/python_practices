@@ -1,1 +1,3 @@
 Python practices
+----Leetcode
+--------easy
